@@ -1,2 +1,2 @@
 ## About this project
-I set up this project from scratch. I started with npm init then manually hooked up webpack and pixi.js.
+I wanted to practice setting up a front end development environment, so I built the entire foundation of this website after running an npm init. This website uses Webpack, TypeScript, Yarn, and PIXI.js
